@@ -1,13 +1,13 @@
 <?php
 /**
- * Twitter snippet to replace username and widget id for users
+ * Twitter snippet to replace username and widget-id for users
  *
  * A sample micro-service example for WordPress Power-Box Widget URL Example
  *
  * Create and know your Widget ID as:
  * 1. Visit: https://twitter.com/settings/widgets/new
  * 2. Create Widget
- * 3.  See in URL or
+ * 3. See in URL or
  *
  * /micro-services/twitter.php?username=USERNAME&widget_id=000000000000000000
  */

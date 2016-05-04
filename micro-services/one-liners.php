@@ -12,7 +12,7 @@
 $one_liners = array(
 	'Q: Why was six scared of seven?<br />A: Because seven "ate" nine.',
 	'Q: What is the difference between snowmen and snowwomen?<br />A: Snowballs.',
-	'Q: What did the blanket say when it fell of the bed?<br />A: "Oh sheet!"',
+	'Q: What did the blanket say when it fell of the bed?<br />A: "Oh Sheet!"',
 	'Why is it that your nose runs, but your feet smell?',
 	'Q: What starts with E, ends with E, and has only 1 letter in it?<br />A: Envelope.',
 	'Q: What did the big chimney say to the little chimney?<br />A: "You\'re too young to smoke."',
